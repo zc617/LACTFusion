@@ -1,2 +1,2 @@
-# LACTFusion
-The official implementation of the paper "LACTFusion". The source code will be released upon publication.
+# LACT-Fusion
+The official implementation of the paper "LACT-Fusion". The source code will be released upon publication.

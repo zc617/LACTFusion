@@ -2,7 +2,7 @@ import argparse
 import torch
 from models import fusion_model
 from input_data import ImageDataset
-from uitils import *
+from utils import *
 from torch.utils.tensorboard import SummaryWriter
 import matplotlib.pyplot as plt
 import os

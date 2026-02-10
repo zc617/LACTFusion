@@ -9,9 +9,10 @@ Pytorch==1.11.0+cu113
 If you find the source code helpful for your work, please consider citing our paper.
 ```Bibtex
 @article{CAI2026115531,
-title = {LACT-Fusion: Linear Attention-Guided Cross-Modal Learning for Infrared and Visible Image Fusion},
+author = {Zhao Cai and Yong Ma and Qi Peng and Weizhong Li and Ge Wang and Jun Huang and Fan Fan and Qian Wang},
 journal = {Knowledge-Based Systems},
-pages = {115531},
+title = {LACT-Fusion: Linear Attention-Guided Cross-Modal Learning for Infrared and Visible Image Fusion},
 year = {2026},
-issn = {0950-7051},
+pages = {115531},
+doi = {https://doi.org/10.1016/j.knosys.2026.115531},
 }
